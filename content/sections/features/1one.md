@@ -1,5 +1,4 @@
 ---
-title: In
 weight: 1
 icon: icon1.svg
 ---
