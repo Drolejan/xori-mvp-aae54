@@ -6,7 +6,7 @@ resources:
       src: about.md
     - name: Escuelas
       src: features.md
-    - name: register
+    - name: Registrate
       src: register.md
     - src: 'features/*'
 ---
