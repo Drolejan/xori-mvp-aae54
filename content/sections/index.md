@@ -2,7 +2,7 @@
 title: AWE.SOME
 headless: true
 resources:
-    - name: about
+    - name: Acerca de
       src: about.md
     - name: features
       src: features.md
