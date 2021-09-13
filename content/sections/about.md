@@ -2,6 +2,6 @@
 title: Nuestra vision
 ---
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt.
+Educamos al próximo millón de genios para la economía digital, robótica y aeroespacial en Latam..
 <br><br>
 **Vivamus vitae erat vel tellus condimentum consectetur.**
