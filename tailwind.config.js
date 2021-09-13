@@ -124,7 +124,7 @@ module.exports = {
         800: '#553c9a',
         900: '#44337a',
       },
-      purple: {
+      xori: {
         100: '#faf5ff',
         200: '#e9d8fd',
         300: '#d6bcfa',
