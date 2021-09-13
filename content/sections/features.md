@@ -1,5 +1,5 @@
 ---
-title: Conoce nuestrs incubadoras
+title: Conoce nuestras incubadoras
 afterTitle: ...and so much more!
 ---
 
