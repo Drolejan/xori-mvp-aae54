@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature Two
+title: Diseño de Videojuegos
 weight: 2
 icon: icon2.svg
 ---
