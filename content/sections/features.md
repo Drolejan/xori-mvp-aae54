@@ -3,4 +3,4 @@ title: Conoce nuestras incubadoras
 afterTitle: ...and so much more!
 ---
 
-Únete a Xori
+Únete a Xori para salvar el planeta
