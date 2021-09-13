@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature 7
+title: Inteligencia Artificial
 weight: 7
 icon: icon7.svg
 ---
