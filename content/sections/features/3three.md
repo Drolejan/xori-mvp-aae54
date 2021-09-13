@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature 3
+title: Aeroespacial
 weight: 3
 icon: icon3.svg
 ---
