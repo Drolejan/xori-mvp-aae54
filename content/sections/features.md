@@ -3,4 +3,4 @@ title: Conoce nuestras incubadoras
 afterTitle: ...and so much more!
 ---
 
-Únete a Xori para salvar el planeta a tráves de las 
+Únete a Xori para salvar el planeta a tráves de las STEM con
