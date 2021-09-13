@@ -2,4 +2,4 @@
 title: Registrate
 ---
 
-Com.
+Comienza ahora.
