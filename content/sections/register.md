@@ -1,5 +1,5 @@
 ---
-title: Registrate
+title: Registrate y empieza 
 ---
 
 Comienza ahora.
