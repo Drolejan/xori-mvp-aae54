@@ -1,5 +1,5 @@
 ---
-title: Ciencia
+title: Educación STEM
 weight: 8
 icon: icon8.svg
 ---
