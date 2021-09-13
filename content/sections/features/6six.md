@@ -1,5 +1,5 @@
 ---
-title: AWE.SOME Feature Six
+title: Liderazgo
 weight: 6
 icon: icon6.svg
 ---
